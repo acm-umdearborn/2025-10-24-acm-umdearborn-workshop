@@ -1,252 +1,178 @@
-[![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://github.com/carpentries/workshop-template/actions/workflows/website.yml)
+# 🎓 Research Like a Pro: Hands-on Workshop on Building Research Mindset and Skills through Reproducibility
 
-# The Carpentries Workshop Template
+**📅 Date:** **Friday, October 24 at 11 AM**  
+**🏛 Hosted by:** CIS Department & ACM Student Chapter  
 
-This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
-[Library Carpentry][lc-site]'s) template for creating websites for workshops.
+---
 
-1. **Please _do not fork this repository directly on GitHub._** Instead, please use GitHub's
-   "template" function following [the instructions below](#creating-a-repository) to copy this
-   `workshop-template` repository and customize it for your workshop.
+## 💡 Overview
 
-2. Please *do your work in your repository's `gh-pages` branch*, since that is what is
-   [automatically published as a website by GitHub][github-project-pages].
+Curious how researchers design experiments, validate results, and tackle complex problems?  
+Join us for the **CIS Reproducibility Workshop** — a hands-on event where you’ll explore, experiment, and present your findings alongside peers and faculty.
 
-3. Once you are done, please also [let us know][email] the workshop URL. If this is a self-organised
-   workshop, you should also [fill in the self-organized workshop
-   form][self-organized-workshop-form] (if you have not already done so), so we can keep track of
-   all workshops. We build the list of workshops on our websites from the data included in your
-   `index.md` page. We can only do that if you [customize][customization] that page correctly *and*
-   let us know the workshop URL.
+This workshop helps you develop **critical thinking**, **collaboration**, and **research resilience** — the essential skills that define successful scholars and innovators.
 
-If you run into problems,
-or have ideas about how to make this process simpler,
-please [get in touch](#getting-and-giving-help).
-The pages on [customizing your website][customization],
-the [FAQ][faq],
-and the [design notes][design] have more detail on what we do and why.
-And please note:
-if you are teaching Git,
-please [create a separate repository](#setting-up-a-separate-repository-for-learners)
-for your learners to practice in.
+---
 
-## Video Tutorial
+## 🔹 What’s Inside
 
-There is a [YouTube video](https://www.youtube.com/watch?v=_Ag1JiZzyUQ) that demonstrates how to
-create a workshop website.
+### 🎙 Faculty Panel (30 min)
+Hear insights on research design, validation, and communication from:
 
-## Creating a Repository
+- Dr. **Khouloud Gaaloul**  
+- Dr. **Foyzul Hassan**  
+- Dr. **Anwar Ghammam**  
+- Dr. **Utkarshani Jaimini**  
+- Dr. **Niccolò Meneghetti**  
+- *Moderated by Dr. Probir Roy*
 
-1.  Log in to GitHub.
-    (If you do not have an account, you can quickly create one for free.)
-    You must be logged in for the remaining steps to work.
+---
 
-2.  On this page (<https://github.com/carpentries/workshop-template>),
-    click on the green "Use this template" button (top right)
+### 🧠 Hands-on Workshop (90–120 min)
+Work in small groups to **reproduce and analyze selected results** from faculty-nominated research papers.  
+Experience the challenges and creativity involved in **validating scientific results**.
 
-    ![screenshot of this repository's GitHub page with an arrow pointing to the the 'use this template' button on the top left](fig/select-github-use-template.png?raw=true)
-    Alternatively, use this link: [Use this template](https://github.com/new?template_name=workshop-template&template_owner=carpentries).  With the drop down button select "Create a new repository."
+---
 
-3.  Select the owner for your new repository.
-    (This will probably be you, but may instead be an organization you belong to.)
+### 🗣 Student Presentations (30–40 min)
+Present your:
+- Research problem of interest  
+- Reproduced results and observations  
+- Lessons learned during the process
 
-4.  Name your workshop website repository using the Carpentries slug format.
-    The slug should have the form `YYYY-MM-DD-site`,
-    e.g., `2016-12-01-oomza`,
-    where `YYYY-MM-DD` is the start date of the workshop and 'oomza' is an example site name.
-    If your workshop is held online, then the respository name should have `-online` in the end.
-    e.g., `2016-12-01-oomza-online`. Make sure your slug does not end with a `-` or `_`
-    character. Your website build will fail if the name of your repository does not match the
-    valid slug format! 
+---
 
-6.  Make sure the repository is public, leave "Include all branches" unchecked, and click
-on "Create repository from template".
-You will be redirected to your new copy of the workshop template respository.
+## 🧩 Workshop Proposals & Tracks
 
-7. Your new website will be rendered at `https://your_username.github.io/YYYY-MM-DD-site`.
-For example, if your username is `gvwilson`, the website's URL will be
-`https://gvwilson.github.io/2016-12-01-oomza`.
+Participants will work in small groups to reproduce results from one of the following faculty-nominated research papers.  
+Each project provides hands-on experience with different aspects of reproducible research.
 
-If you experience a problem, please [get in touch](#getting-and-giving-help).
+---
 
-## Customizing Your Website (Required Steps)
+### 🔍 Proposal 1: ProRCA
+**Proposed by:** Dr. Utkarshani Jaimini  
+**Paper:** [ProRCA: A Causal Python Package for Actionable Root Cause Analysis in Real-world Business Scenarios](https://arxiv.org/pdf/2503.01475)  
 
-There are two ways of customizing your website. You can either:
+**Skills You’ll Develop**
+- Apply causal inference techniques in practice  
+- Design reproducible pipelines and inject controlled anomalies  
+- Interpret and validate causal results  
 
-- edit the files directly in GitHub using your web browser
-- clone the repository on your computer and update the files locally
+**Student Tasks**
+- Investigate whether anomaly injection reveals true causal links  
+- Evaluate how reproduced results align with the paper’s claims  
+- Reflect on discrepancies and what they reveal about reproducibility  
 
-### Updating the files on GitHub in your web browser
+**Resources**
+- [GitHub Repository](https://github.com/profitopsai/ProRCA)  
+- [Documentation](https://prorca.readthedocs.io/en/latest/)  
+- [DoWhy Library](https://www.pywhy.org/dowhy/v0.13/)
 
-1.  Go into your newly-created repository,
-    which will be at `https://github.com/your_username/YYYY-MM-DD-site`.
-    For example,
-    if your username is `gvwilson`,
-    the repository's URL will be `https://github.com/gvwilson/2016-12-01-oomza`.
+---
 
-3.  Ensure you are on the gh-pages branch by clicking on the branch under the drop
-    down in the menu bar (see the note below):
+### ⚙️ Proposal 2: EvoSuite
+**Proposed by:** Dr. Khouloud Gaaloul  
+**Paper:** [EvoSuite: Automatic Test Suite Generation with Defects4J](https://www.evosuite.org/wp-content/papercite-data/pdf/esecfse11.pdf)  
 
-    ![screenshot of this repository's GitHub page showing the "Branch" dropdown menu expanded with the "gh-pages" branch selected](fig/select-gh-pages-branch.png?raw=true)
+**Skills You’ll Develop**
+- Use automated test generation tools  
+- Measure coverage and mutation metrics  
+- Benchmark test effectiveness  
 
-3.  Edit the header of `index.md` to customize the list of instructors,
-    workshop venue, etc.
-    You can do this in the browser by clicking on it in the file view on GitHub
-    and then selecting the pencil icon in the menu bar:
+**Student Tasks**
+- Compare EvoSuite and Randoop test quality  
+- Evaluate coverage and mutation scores  
+- Reflect on tool differences and reproducibility  
 
-    ![screenshot of top menu bar for GitHub's file interface with the edit icon highlighted in the top right](fig/edit-index-file-menu-bar.png?raw=true)
+**Resources**
+- [Documentation](https://www.evosuite.org/documentation/)  
+- [GitHub Repository](https://github.com/EvoSuite/evosuite/releases/tag/v1.1.0)
 
-    Editing hints are embedded in `index.md`,
-    and full instructions are in [the customization instructions][customization].
+---
 
-4.  Remove the notice about using the workshop template in the `index.md` file. You can safely
-    delete everything between the `{% comment %}` and `{% endcomment %}` (included) as indicated
-    below (from line 37 to line 60):
+### 🤖 Proposal 3: Quality Assessment of ChatGPT-Generated Code
+**Proposed by:** Dr. Anwar Ghammam  
+**Paper:** [Quality Assessment of ChatGPT-Generated Code and their Use by Developers](https://s2e-lab.github.io/preprints/msr_mining_challenge24-preprint.pdf)  
 
-    ```jekyll
-    {% comment %} <------------ remove from this line
-    8< ============= For a workshop delete from here =============
-    For a workshop please delete the following block until the next dashed-line
-    {% endcomment %}
+**Skills You’ll Develop**
+- Run static analysis tools (Pylint, Bandit, CodeQL)  
+- Interpret software quality metrics  
+- Conduct empirical software engineering  
 
-    <div class="alert alert-danger">
-      ....
-    </div>
+**Student Tasks**
+- Investigate systematic issues in ChatGPT-generated code  
+- Evaluate static analysis findings across languages  
+- Reflect on differences from the paper’s conclusions  
 
-    {% comment %}
-     8< ============================= until here ==================
-    {% endcomment %} <--------- until this line
-    ```
+**Resources**
+- [GitHub Repository](https://github.com/s2e-lab/DevGPT-Study)  
+- [Python Downloads](https://www.python.org/downloads/)
 
-4.  Edit `_config.yml` to customize certain site-wide variables, such as: `carpentry` (to tell your
-    participants the lesson program for your workshop), `curriculum` and `flavor` for the
-    curriculum  taught in your workshop, and `title` (overall title for all pages).
+---
 
-    Editing hints are embedded in `_config.yml`,
-    and full instructions are in [the customization instructions][customization].
+### 🧠 Proposal 4: SpecRover
+**Proposed by:** Dr. Foyzul Hassan  
+**Paper:** [SpecRover: Code Intent Extraction via LLMs](https://dl.acm.org/doi/10.1109/ICSE55347.2025.00080)  
 
-5. Edit the `schedule.html` file to edit the schedule for your upcoming workshop. This file is
-   located in the `_includes` directory, make sure to choose the one from the appropriate `dc` (Data
-   Carpentry workshop), `lc` (Library Carpentry), or `swc` (Software Carpentry) subdirectory.
+**Skills You’ll Develop**
+- Orchestrate multi-agent LLM workflows  
+- Infer code intent using SWE-bench datasets  
+- Extend experimental pipelines  
 
-### Working locally
+**Student Tasks**
+- Investigate whether multi-agent systems infer developer intent  
+- Evaluate generated patch performance  
+- Reflect on challenges in scaling LLM-based repair  
 
-> Note: you don't have to do this, if you have already updated your site using the web interface.
+**Resources**
+- [Artifacts](https://zenodo.org/records/13161651)  
+- [GitHub Repository](https://github.com/AutoCodeRoverSG/auto-code-rover)
 
+---
 
-If you are already familiar with Git, you can clone the repository to your desktop, edit `index.md`,
-`_config.yml`, and `schedule.html` following the instruction above there, and push your changes back to the repository.
+### 🧪 Proposal 5: InfiniFilter
+**Proposed by:** Dr. Niccolò Meneghetti  
+**Paper:** [InfiniFilter: Expanding Filters to Infinity and Beyond](https://dl.acm.org/doi/10.1145/3589285)  
 
-```shell
-git clone https://github.com/your_username/YYYY-MM-DD-site
-```
+**Skills You’ll Develop**
+- Debug and configure research environments  
+- Reproduce algorithmic benchmarks  
+- Analyze reproducibility trade-offs in data systems  
 
-In order to view your changes once you are done editing, if you have bundler installed (see the
-[installation instructions below](#installing-software)), you can preview your site locally with:
+**Student Tasks**
+- Investigate reproducibility of InfiniFilter results on modern hardware  
+- Evaluate reproduced plots vs. originals  
+- Reflect on environmental effects on reproducibility  
 
-```shell
-make serve
-```
-and go to <http://0.0.0.0:4000> to preview your site.
+---
 
-Before pushing your changes to your repository, we recommend that you also check for any potential
-issues with your site by running:
+## 🌍 Open to Everyone
 
-```shell
-make workshop-check
-```
+This workshop welcomes **all students, faculty, and research enthusiasts** — regardless of background or experience.  
+If you’re curious about how research works, this is your chance to **learn by doing** and connect with the CIS research community.
 
-Once you are satisfied with the edits to your site, commit and push the changes to your repository.
-A few minutes later, you can go to the GitHub Pages URL for your workshop site and preview it. In the example above, this is `https://gvwilson.github.io/2016-12-01-oomza`. [The finished
-page should look something like this](fig/completed-page.png?raw=true).
+---
 
+## 📬 Contact
+For questions, please reach out to the **CIS ACM Student Chapter**  
+📧 [acm@umdearborn.edu](mailto:acm@umdearborn.edu)
 
-## Optional but Recommended Steps
+---
 
+### ⭐ Join Us
+Don’t just read about research — **do it!**  
+Let’s build a culture of openness, rigor, and reproducibility in CIS research together.  
 
-### Update your repository description and link your website
+<div align="center">
 
-At the top of your repository on GitHub you'll see
+<a href="https://forms.gle/pXo2RDwSNbaMPp898" target="_blank" style="background-color:#00274C;color:#FFCB05;padding:12px 24px;text-decoration:none;font-weight:bold;border-radius:8px;display:inline-block;">
+📝 RSVP Here to Reserve Your Spot
+</a>
 
-~~~
-No description, website, or topics provided. — Edit
-~~~
+<br><br>
 
-Click 'Edit' and add:
+📍 **Friday, October 24 at 11 AM**  
+💬 *Open to everyone — come and explore the world of reproducible research!*
 
-1.  A very brief description of your workshop in the "Description" box (e.g., "Oomza University workshop, Dec. 2016")
+</div>
 
-2.  The URL for your workshop in the "Website" box (e.g., `https://gvwilson.github.io/2016-12-01-oomza`)
-
-This will help people find your website if they come to your repository's home page. You may wish to check the box "Use Github pages link."
-
-### Update the content of the README file
-
-You can change the `README.md` file in your website's repository, which contains these instructions,
-so that it contains a short description of your workshop and a link to the workshop website.
-
-
-## Additional Notes
-
-**Note:**
-please do all of your work in your repository's `gh-pages` branch,
-since [GitHub automatically publishes that as a website][github-project-pages].
-
-**Note:**
-this template includes some files and directories that most workshops do not need,
-but which provide a standard place to put extra content if desired.
-See the [design notes][design] for more information about these.
-
-Further instructions are available in [the customization instructions][customization].
-This [FAQ][faq] includes a few extra tips (additions are always welcome)
-and these notes on [the background and design][design] of this template may help as well.
-
-
-## Creating Extra Pages
-
-In rare cases,
-you may want to add extra pages to your workshop website.
-You can do this by putting either Markdown or HTML pages in the website's root directory
-and styling them according to the instructions give in
-[the lesson template][lesson-example].
-
-
-## Installing Software
-
-If you want to set up Jekyll so that you can preview changes on your own machine before pushing them
-to GitHub, you must install the software described in the lesson example [setup
-instructions](https://carpentries.github.io/lesson-example/setup.html#jekyll-setup-for-lesson-development).
-
-## Setting Up a Separate Repository for Learners
-
-If you are teaching Git,
-you should create a separate repository for learners to use in that lesson.
-You should not have them use the workshop website repository because:
-
-* your workshop website repository contains many files that most learners don't need to see during
-  the lesson, and
-
-* you probably don't want to accidentally merge a damaging pull request from a novice Git user into
-  your workshop's website while you are using it to teach.
-
-You can call this repository whatever you like, and add whatever content you need to it.
-
-## Getting and Giving Help
-
-We are committed to offering a pleasant setup experience for our learners and organizers.
-If you find bugs in our instructions,
-or would like to suggest improvements,
-please [file an issue][issues]
-or [mail us][email].
-
-[email]: mailto:team@carpentries.org
-[customization]: https://carpentries.github.io/workshop-template/customization/index.html
-[dc-site]: https://datacarpentry.org
-[design]: https://carpentries.github.io/workshop-template/design/index.html
-[faq]: https://carpentries.github.io/workshop-template/faq/index.html
-[github-project-pages]: https://help.github.com/en/github/working-with-github-pages/creating-a-github-pages-site
-[issues]: https://github.com/carpentries/workshop-template/issues
-[lesson-example]: https://carpentries.github.io/lesson-example/
-[self-organized-workshop-form]: https://amy.carpentries.org/forms/self-organised/
-[swc-site]: https://software-carpentry.org
-[lc-site]: https://librarycarpentry.org
