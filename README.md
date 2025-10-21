@@ -1,7 +1,8 @@
 # 🎓 Research Like a Pro: Hands-on Workshop on Building Research Mindset and Skills through Reproducibility
 
-**📅 Date:** **Friday, October 24 at 11 AM**  
+**📅 Date:** **Friday, October 24 from 11 AM unti 2 PM**  
 **🏛 Hosted by:** [CIS Department](https://umdearborn.edu/cecs/departments/computer-and-information-science) & [ACM Student Chapter](https://umdearborn.campuslabs.com/engage/organization/acm)  
+**📍 Location:** [Kochoff Hall A, University Center, 4901 Evergreen Rd, Dearborn, MI 48128](https://maps.app.goo.gl/p1tskdQ1EJ7wPdLt8)
 
 ---
 
