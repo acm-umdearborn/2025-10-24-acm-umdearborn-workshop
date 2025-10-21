@@ -147,6 +147,7 @@ Each project provides hands-on experience with different aspects of reproducible
 **Resources**
 - [Artifacts](https://dl.acm.org/doi/suppl/10.1145/3589285/suppl_file/3589285_source_code.zip)  
 - [Reproducibility Report](https://reproducibility.sigmod.org/rep_rep/2023/SIGMOD23ARIReport-32.pdf)
+
 ---
 
 ## 🌍 Open to Everyone
