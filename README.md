@@ -158,7 +158,7 @@ If you’re curious about how research works, this is your chance to **learn by 
 ---
 
 ## 📬 Contact
-For questions, please reach out to the **CIS ACM Student Chapter**  
+For questions, please reach out to the **ACM Student Chapter**  
 📧 [acm@umdearborn.edu](mailto:acm@umdearborn.edu)
 
 ---
