@@ -25,7 +25,7 @@ Hear insights on research design, validation, and communication from:
 - Dr. **Anwar Ghammam**  
 - Dr. **Utkarshani Jaimini**  
 - Dr. **Niccolò Meneghetti**  
-- *Moderated by Dr. Probir Roy*
+- *Moderated by **Dr. Probir Roy***
 
 ---
 
