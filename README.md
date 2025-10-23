@@ -181,3 +181,25 @@ Let’s build a culture of openness, rigor, and reproducibility in CIS research 
 
 </div>
 
+---
+
+## 🧭 What’s Next?
+
+Already registered? Great!
+Before the workshop:
+
+1. Review the **five papers** listed above.
+2. Pick one you’d like to work on.
+3. Try setting up its **artifact or code** on your laptop or cloud service.
+4. Make sure you have **Python 3.8+**, Git, and any required tools installed.
+
+---
+
+## 💼 At the Workshop — What to Bring
+
+1. **Your Own Laptop** (no devices provided)
+2. **Power Cord / Charger**
+3. **Pre-installed dependencies** (Python, IDE, required libraries)
+4. **Curiosity and teamwork!**
+
+---
