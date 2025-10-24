@@ -166,6 +166,7 @@ Each project provides hands-on experience with different aspects of reproducible
 
 This workshop welcomes **all students, faculty, and research enthusiasts** — regardless of background or experience.  
 If you’re curious about how research works, this is your chance to **learn by doing** and connect with the CIS research community.
+<br> **RSVP REQUIRED**
 
 ---
 
