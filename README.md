@@ -176,3 +176,47 @@ Let’s build a culture of openness, rigor, and reproducibility in CIS research 
 
 </div>
 
+## 🏆 Workshop Results & Highlights
+
+We’re excited to announce the **top three teams** from the *Research Like a Pro: Hands-on Workshop on Building Research Mindset and Skills through Reproducibility*, hosted by the **ACM Student Chapter** and the **CIS Department at the University of Michigan–Dearborn**!
+
+After careful evaluation by our **faculty panel**, based on the quality of analysis, reproducibility of results, and clarity of presentation, the final results are:
+
+### 🥇 1st Place — Team 3C  
+**Members:** Mohammad Opal, Hadiza Yusuf, Ahmad Jayeb  
+
+### 🥈 2nd Place — Team 5A  
+**Member:** Raymond DiDonato  
+
+### 🥉 3rd Place — Team 4A  
+**Members:** Avishak Chakroborty, Javid Ditty, Sudarshan Sridhar  
+
+Congratulations to all our winners for their hard work, creativity, and research excellence! 🎓  
+Each team demonstrated outstanding collaboration and critical thinking throughout the workshop.
+
+📝 *If you notice any missing or misspelled team member names, please contact us as soon as possible at [acm@umdearborn.edu](mailto:acm@umdearborn.edu) so we can update the results promptly.*
+
+---
+
+### 📸 Event Photo Highlights
+
+Below are some of our favorite moments from the workshop — capturing collaboration, discussion, and discovery in action!
+
+<div align="center">
+
+<img src="images/DSC03603.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03605.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03608.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03642.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03672.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03674.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03702.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03708.JPG" width="48%" style="margin:5px; border-radius:10px;">
+
+</div>
+
+---
+
+📍 *Hosted by the ACM Student Chapter and CIS Department, University of Michigan–Dearborn.*  
+🔗 [Return to Event Page](https://acm-umdearborn.github.io/2025-10-24-acm-umdearborn-workshop/)
+
