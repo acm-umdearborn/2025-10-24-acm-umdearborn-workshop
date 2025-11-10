@@ -200,7 +200,7 @@ Each team demonstrated outstanding collaboration and critical thinking throughou
 
 ### 📸 Event Photo Highlights
 
-Below are some of our favorite moments from the workshop — capturing collaboration, discussion, and discovery in action!
+Below are some of our moments from the workshop — capturing collaboration, discussion, and discovery in action!
 
 <div align="center">
 
