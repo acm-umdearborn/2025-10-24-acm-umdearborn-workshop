@@ -198,20 +198,27 @@ Each team demonstrated outstanding collaboration and critical thinking throughou
 
 ---
 
-### 📸 Event Photo Highlights
+## 📸 Event Photo Highlights
 
-Below are some of our moments from the workshop — capturing collaboration, discussion, and discovery in action!
+Here are some memorable moments from the workshop — capturing collaboration, presentations, and celebration!
 
 <div align="center">
 
 <img src="images/DSC03603.JPG" width="48%" style="margin:5px; border-radius:10px;">
 <img src="images/DSC03605.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03606.JPG" width="48%" style="margin:5px; border-radius:10px;">
 <img src="images/DSC03608.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03612.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03613.JPG" width="48%" style="margin:5px; border-radius:10px;">
 <img src="images/DSC03642.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03666.JPG" width="48%" style="margin:5px; border-radius:10px;">
 <img src="images/DSC03672.JPG" width="48%" style="margin:5px; border-radius:10px;">
 <img src="images/DSC03674.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03691.JPG" width="48%" style="margin:5px; border-radius:10px;">
 <img src="images/DSC03702.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03707.JPG" width="48%" style="margin:5px; border-radius:10px;">
 <img src="images/DSC03708.JPG" width="48%" style="margin:5px; border-radius:10px;">
+<img src="images/DSC03724.JPG" width="48%" style="margin:5px; border-radius:10px;">
 
 </div>
 
