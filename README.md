@@ -218,5 +218,4 @@ Below are some of our favorite moments from the workshop — capturing collabora
 ---
 
 📍 *Hosted by the ACM Student Chapter and CIS Department, University of Michigan–Dearborn.*  
-🔗 [Return to Event Page](https://acm-umdearborn.github.io/2025-10-24-acm-umdearborn-workshop/)
 
