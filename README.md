@@ -189,7 +189,7 @@ After careful evaluation by our **faculty panel**, based on the quality of analy
 **Member:** Raymond DiDonato  
 
 ### 🥉 3rd Place — Team 4A  
-**Members:** Avishak Chakroborty, Javid Ditty, Sudarshan Sridhar  
+**Members:** Avishak Chakroborty, Javid Ditty, Chineme Uba, Sudarshan Sridhar  
 
 Congratulations to all our winners for their hard work, creativity, and research excellence! 🎓  
 Each team demonstrated outstanding collaboration and critical thinking throughout the workshop.
